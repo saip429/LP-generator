@@ -1,0 +1,34 @@
+Databases
+Communication and security
+Mathematical foundations
+Concurrent parallel distributed systems
+Computer graphics
+Algorithms and data structures
+Communication and security
+Computer architecture
+Blue eyes technology
+Cloud Computing and cloud services
+Brain-controlled cars for the disabled using artificial intelligence
+Artificial Intelligence in Machines
+Azure vs AWS
+Blue eyes technology
+Automatic number plate recognition
+Autonomic Computing
+Systems and Networking
+Robotics
+Artificial Intelligence and Machine Learning
+Security and Privacy
+Vision and Graphics
+Programming Languages
+Human-Computer Interaction and Information Visualization
+Theory
+Security and Privacy
+Javascript
+Python
+Go
+java
+Kotlin
+PHP
+C#
+Swift
+c
