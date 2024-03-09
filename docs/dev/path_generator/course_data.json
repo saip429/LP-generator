@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Introduction to Python programming ",
+        "modules": [
+            "what is python",
+            "Python Data Types",
+            "variables in python",
+            "operators in python",
+            "Control Flow in python",
+            "loops in python",
+            "functions in python",
+            "Modules in python"
+        ]
+    },
+    {
+        "title": "Advanced concepts in Python",
+        "modules": [
+            "classes in python",
+            "generators in python",
+            "decorators in python",
+            "context managers in python",
+            "metaprogramming in python",
+            "multithreading in python",
+            "asynchronous programming in python",
+            "dunder methods in python"
+        ]
+    },
+    {
+        "title": "Introduction to Java programming",
+        "modules": [
+            "What is Java",
+            "Java Data Types",
+            "Variables in Java",
+            "Operators in Java",
+            "Control Flow in Java",
+            "Loops in Java",
+            "Methods in Java",
+            "Classes and Objects in Java"
+        ]
+    },
+    {
+        "title": "Advanced concepts in Java",
+        "modules": [
+            "Exception handling in Java",
+            "Multithreading in Java",
+            "Java Generics",
+            "Java Collections Framework",
+            "Lambda expressions in Java",
+            "Java Streams API",
+            "Concurrency in Java",
+            "Java Reflection API"
+        ]
+    },
+    {
+        "title": "Introduction to C programming",
+        "modules": [
+            "What is C",
+            "C Data Types",
+            "Variables in C",
+            "Operators in C",
+            "Control Flow in C",
+            "Loops in C",
+            "Functions in C",
+            "Arrays and Pointers in C"
+        ]
+    },
+    {
+        "title": "Advanced concepts in C",
+        "modules": [
+            "Memory management in C",
+            "Pointers in C",
+            "File I/O in C",
+            "Dynamic memory allocation in C",
+            "Preprocessor directives in C",
+            "Bit manipulation in C",
+            "Function pointers in C",
+            "Structures and unions in C"
+        ]
+    },
+    {
+        "title": "Introduction to C++ programming",
+        "modules": [
+            "What is C++",
+            "C++ Data Types",
+            "Variables in C++",
+            "Operators in C++",
+            "Control Flow in C++",
+            "Loops in C++",
+            "Functions in C++",
+            "Classes and Objects in C++"
+        ]
+    },
+    {
+        "title": "Advanced concepts in C++",
+        "modules": [
+            "Templates in C++",
+            "STL (Standard Template Library) in C++",
+            "Operator overloading in C++",
+            "Exception handling in C++",
+            "Smart pointers in C++",
+            "Lambda expressions in C++",
+            "Concurrency in C++",
+            "Move semantics in C++"
+        ]
+    },
+    {
+        "title": "Introduction to JavaScript programming",
+        "modules": [
+            "What is JavaScript",
+            "JavaScript Data Types",
+            "Variables in JavaScript",
+            "Operators in JavaScript",
+            "Control Flow in JavaScript",
+            "Loops in JavaScript",
+            "Functions in JavaScript",
+            "Arrays and Objects in JavaScript"
+        ]
+    },
+    {
+        "title": "Advanced concepts in Javascript",
+        "modules": [
+            "Closures and Scope in JavaScript",
+            "Asynchronous JavaScript (Promises, async/await)",
+            "Functional Programming in JavaScript",
+            "ES6+ Features (Arrow functions, destructuring, spread/rest operators)",
+            "Modules in JavaScript (ES6 modules)",
+            "Error Handling in JavaScript",
+            "DOM Manipulation and Event Handling",
+            "Client-side Web APIs (Fetch API, Local Storage, Web Workers)"
+        ]
+    }
+]
