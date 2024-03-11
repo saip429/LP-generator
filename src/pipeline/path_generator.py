@@ -1,5 +1,11 @@
 """
-Learning path generator pipeline 
+Learning path generator pipeline   
+
+arguments expected: keyword (str) and beginner (str) (optional)
+
+returns:
+keyword extracted upon invoking extact_keyword ()
+course name and list of modules as a tuple upon invoking the generate_path()
 """
 
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -72,7 +78,7 @@ class LearningPathGenerator:
 
         return self.keyword
 
-    def generate_path(self):
+    def generate_path(self) -> list:
         """
         generates learning path for the keyword and difficulty level
         """
@@ -85,6 +91,7 @@ class LearningPathGenerator:
         self.modules = self.get_modules(data)
         if self.modules is None:
             raise ValueError("course not available")
+        return self.modules
 
     # Helper function
     def title_from_keyword(self, keyword, keyword_title_file):
@@ -111,7 +118,5 @@ class LearningPathGenerator:
 if __name__ == "__main__":
     myg = LearningPathGenerator("I want to learn javascript")
     print(myg.extract_keyword())
-    myg.generate_path()
-    print(myg.course_title)
-    print(myg.modules)
-    print(type(myg.modules))
+    module_list = myg.generate_path()
+    print(module_list)

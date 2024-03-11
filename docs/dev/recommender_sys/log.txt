@@ -1,0 +1,89 @@
+Modules for Introduction to Python programming :
+fetching videos for module:  what is python
+fetching videos for module:  Python Data Types
+fetching videos for module:  variables in python
+fetching videos for module:  operators in python
+fetching videos for module:  Control Flow in python
+fetching videos for module:  loops in python
+fetching videos for module:  functions in python
+fetching videos for module:  Modules in python
+Modules for Advanced concepts in Python:
+fetching videos for module:  classes in python
+fetching videos for module:  generators in python
+fetching videos for module:  decorators in python
+fetching videos for module:  context managers in python
+fetching videos for module:  metaprogramming in python
+fetching videos for module:  multithreading in python
+fetching videos for module:  asynchronous programming in python
+fetching videos for module:  dunder methods in python
+Modules for Introduction to Java programming:
+fetching videos for module:  What is Java
+fetching videos for module:  Java Data Types
+fetching videos for module:  Variables in Java
+fetching videos for module:  Operators in Java
+fetching videos for module:  Control Flow in Java
+fetching videos for module:  Methods in Java
+fetching videos for module:  Classes and Objects in Java
+Modules for Advanced concepts in Java:
+fetching videos for module:  Exception handling in Java
+fetching videos for module:  Multithreading in Java
+fetching videos for module:  Java Generics
+fetching videos for module:  Java Collections Framework
+fetching videos for module:  Lambda expressions in Java
+fetching videos for module:  Java Streams API
+fetching videos for module:  Concurrency in Java
+fetching videos for module:  Java Reflection API
+Modules for Introduction to C programming:
+fetching videos for module:  What is C
+fetching videos for module:  C Data Types
+fetching videos for module:  Variables in C
+fetching videos for module:  Operators in C
+fetching videos for module:  Control Flow in C
+fetching videos for module:  Loops in C
+fetching videos for module:  Functions in C
+fetching videos for module:  Arrays and Pointers in C
+Modules for Advanced concepts in C:
+fetching videos for module:  Memory management in C
+fetching videos for module:  Pointers in C
+fetching videos for module:  File I/O in C
+fetching videos for module:  Dynamic memory allocation in C
+fetching videos for module:  Preprocessor directives in C
+fetching videos for module:  Bit manipulation in C
+fetching videos for module:  Function pointers in C
+fetching videos for module:  Structures and unions in C
+Modules for Introduction to C++ programming:
+fetching videos for module:  What is C++
+fetching videos for module:  C++ Data Types
+fetching videos for module:  Variables in C++
+fetching videos for module:  Operators in C++
+fetching videos for module:  Control Flow in C++
+fetching videos for module:  Loops in C++
+fetching videos for module:  Functions in C++
+fetching videos for module:  Classes and Objects in C++
+Modules for Advanced concepts in C++:
+fetching videos for module:  Templates in C++
+fetching videos for module:  STL (Standard Template Library) in C++
+fetching videos for module:  Operator overloading in C++
+fetching videos for module:  Exception handling in C++
+fetching videos for module:  Smart pointers in C++
+fetching videos for module:  Lambda expressions in C++
+fetching videos for module:  Concurrency in C++
+fetching videos for module:  Move semantics in C++
+Modules for Introduction to JavaScript programming:
+fetching videos for module:  What is JavaScript
+fetching videos for module:  JavaScript Data Types
+fetching videos for module:  Variables in JavaScript
+fetching videos for module:  Operators in JavaScript
+fetching videos for module:  Control Flow in JavaScript
+fetching videos for module:  Loops in JavaScript
+fetching videos for module:  Functions in JavaScript
+fetching videos for module:  Arrays and Objects in JavaScript
+Modules for Advanced concepts in Javascript:
+fetching videos for module:  Closures and Scope in JavaScript
+fetching videos for module:  Asynchronous JavaScript (Promises, async/await)
+fetching videos for module:  Functional Programming in JavaScript
+fetching videos for module:  ES6+ Features (Arrow functions, destructuring, spread/rest operators)
+fetching videos for module:  Modules in JavaScript (ES6 modules)
+fetching videos for module:  Error Handling in JavaScript
+fetching videos for module:  DOM Manipulation and Event Handling
+fetching videos for module:  Client-side Web APIs (Fetch API, Local Storage, Web Workers)

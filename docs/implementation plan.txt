@@ -31,7 +31,7 @@ Model to create Course path for keywords extracted by NLP module.
 Make use of courses database to generate learning path based on topic and difficulty level 
 
 3. Content recommender module:
-Find content based on course content and recommend to users
+Find content based on course content and recommend to users. The recommender system uses a hybrid approach and is implemented using a Simple Neural Network
 
 3. question generator module:
 generates questions for the keywords and evaluates user performance, provides feedback to the Course generator module. 
