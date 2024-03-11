@@ -1,0 +1,43 @@
+modules to be implemented:
+1. NLP module 
+2. Course generator module
+3. question generator module 
+
+services required: 
+dataset for Courses, questions
+recommender system for content
+
+module details:
+1. NLP module:
+takes user input in natural language and extracts keywords through NLP. keywords transferred to the next module  
+steps:
+Data Collection: Gather a dataset of computer science-related text documents, such as textbooks, research papers, articles, and tutorials. Ensure that the dataset covers a wide range of computer science topics. 
+
+how it works: use vectorization to train the model to identify and extract keywords from user query
+
+Preprocessing: Preprocess the text data by tokenizing the documents, removing stopwords, punctuation, and special characters, and stemming or lemmatizing the words to reduce them to their base form.
+
+Keyword Extraction Algorithm: Apply the keyword extraction algorithm to the relevant documents or corpus of text related to the identified topic to extract keywords that are most representative and relevant to the user's query.
+
+data sources: websites, journals
+
+NLP strategy: 
+use web scraping to get raw data,
+use TF-IDF vectorization to identify valid keywords
+
+
+2. Course generator module:
+Model to create Course path for keywords extracted by NLP module. 
+Make use of courses database to generate learning path based on topic and difficulty level 
+
+3. Content recommender module:
+Find content based on course content and recommend to users
+
+3. question generator module:
+generates questions for the keywords and evaluates user performance, provides feedback to the Course generator module. 
+
+tech stack:
+python- pytorch , sklearn, django- backend server, HTML,CSS,JS- UI
+
+Modules implemented as a pipeline that takes query as input
+
